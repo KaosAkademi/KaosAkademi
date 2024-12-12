@@ -1,16 +1,62 @@
-## Hi there 👋
+# 🌟 Hoş Geldin!
 
-<!--
-**KaosAkademi/KaosAkademi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben **FURKAN**, teknoloji ve yaratıcılıkla dolu bir yolculukta kendini geliştirmeye devam eden bir öğrenciyim! Yazılım, yapay zeka, kimya mühendisliği ve teknolojiye olan tutkumla farklı projeler üzerinde çalışıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+
+- 📚 **Kimim?** 
+   Mezun öğrencisiyim ve yapay zeka ile yazılım alanında projeler geliştirmeyi hedefliyorum.
+  
+- 🧠 **İlgi Alanlarım:**
+  - **Yapay Zeka:** Makine öğrenimi ve veri analitiği
+  - **Bilim:** Biyoloji ve Kimya
+
+- 🌍 **Türkiye'de yaşıyorum** ve global teknolojik gelişmelere ayak uyduruyorum.
+
+---
+
+## 📺 Sosyal Medya ve İçerik Platformlarım
+
+- [YouTube](https://youtube.com/kanalink) 🎥
+  - Fizik, yapay zeka, ve yazılım üzerine eğitici içerikler paylaşıyorum.
+  - **İstatistikler:**
+    - Abone Sayısı: 0  
+    - Toplam İzlenme: 0
+    - Videolar: 0  
+
+- [Instagram](https://instagram.com/kaos_akademi) 📸
+  - Projelerim ve teknoloji haberleri hakkında görsel paylaşımlar.
+
+- [X (Twitter)]((https://x.com/kaos_akademi)) 🐦
+  - Kısa notlar, makale bağlantıları ve düşüncelerim.
+
+- [GitHub](https://github.com/KaosAkademi) 💻
+  - Açık kaynak projelerim ve yazılım deneyimlerim.
+
+---
+
+## 📂 Öne Çıkan Projeler
+
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanıcıadın&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullanıcıadın&layout=compact&theme=radical)](https://github.com/kullanıcıadın/github-readme-stats)
+
+---
+
+### 🎯 Hedeflerim
+- 🌟 Daha fazla açık kaynak proje geliştirmek
+- 🌐 Teknolojiyi hayatı kolaylaştırmak için kullanmak
+- 📈 Kimya mühendisliği ve yapay zeka alanında profesyonel olmak
+
+> "Hayallerin, geleceğin rehberidir!" 🌠
+
+---
+
+📩 Bana ulaş: [E-posta Adresin](mailto:selebralkorteks16@gmail.com)
