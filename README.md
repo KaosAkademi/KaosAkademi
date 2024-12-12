@@ -1,4 +1,5 @@
 # 🌟 Hoş Geldin!
+![GitHub Banner](2048.png)
 
 Ben **FURKAN**, teknoloji ve yaratıcılıkla dolu bir yolculukta kendini geliştirmeye devam eden bir öğrenciyim! Yazılım, yapay zeka, kimya mühendisliği ve teknolojiye olan tutkumla farklı projeler üzerinde çalışıyorum.
 
