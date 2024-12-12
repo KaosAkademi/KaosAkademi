@@ -44,9 +44,9 @@ Ben **FURKAN**, teknoloji ve yaratıcılıkla dolu bir yolculukta kendini geliş
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanıcıadın&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaosAkademi&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullanıcıadın&layout=compact&theme=radical)](https://github.com/kullanıcıadın/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaosAkademi&layout=compact&theme=radical)](https://github.com/KaosAkademi/github-readme-stats)
 
 ---
 
