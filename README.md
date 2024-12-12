@@ -1,5 +1,5 @@
 # 🌟 Hoş Geldin!
-<img src="./assets/banner.png" alt="GitHub Banner" width="800" />
+<img src="./assets/2048.png" alt="GitHub Banner" width="800" />
 
 Ben **FURKAN**, teknoloji ve yaratıcılıkla dolu bir yolculukta kendini geliştirmeye devam eden bir öğrenciyim! Yazılım, yapay zeka, kimya mühendisliği ve teknolojiye olan tutkumla farklı projeler üzerinde çalışıyorum.
 
