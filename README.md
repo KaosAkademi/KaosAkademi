@@ -30,7 +30,7 @@ Ben **FURKAN**, teknoloji ve yaratıcılıkla dolu bir yolculukta kendini geliş
 - [Instagram](https://instagram.com/kaos_akademi) 📸
   - Projelerim ve teknoloji haberleri hakkında görsel paylaşımlar.
 
-- [X (Twitter)]((https://x.com/kaos_akademi)) 🐦
+- [X (Twitter)](https://x.com/kaos_akademi) 🐦
   - Kısa notlar, makale bağlantıları ve düşüncelerim.
 
 - [GitHub](https://github.com/KaosAkademi) 💻
