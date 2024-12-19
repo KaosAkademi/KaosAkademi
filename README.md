@@ -23,9 +23,9 @@ Ben **FURKAN**, teknoloji ve yaratıcılıkla dolu bir yolculukta kendini geliş
 - [YouTube](https://youtube.com/kanalink) 🎥
   - Fizik, yapay zeka, ve yazılım üzerine eğitici içerikler paylaşıyorum.
   - **İstatistikler:**
-    - Abone Sayısı: 0  
-    - Toplam İzlenme: 0
-    - Videolar: 0  
+    - Abone Sayısı: 30  
+    - Toplam İzlenme: 600
+    - Videolar: 1 
 
 - [Instagram](https://instagram.com/kaos_akademi) 📸
   - Projelerim ve teknoloji haberleri hakkında görsel paylaşımlar.
